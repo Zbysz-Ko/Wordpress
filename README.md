@@ -1,7 +1,7 @@
 # Plugins for Wordpress
 
 The repository contains several plugins for the Wordpress content management system that were created years ago.
-** Please note that Wordpress may not work properly with the files presented here as they were created between 2006 and 2007. **
+**Please note that Wordpress may not work properly with the files presented here as they were created between 2006 and 2007.**
 
 ## Content
 
