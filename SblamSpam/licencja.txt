@@ -1,0 +1,10 @@
+** Licencja skryptu klienckiego Sblam!
+1. Posty wys³ane do Sblam! bêd¹ sk³adowane i wyrywkowo przegl¹dane w celu ulepszania filtru oraz rozbudowywania bazy. 
+2. Skrypt kliencki Sblam! jest darmowy, mo¿e byæ swobodnie modyfikowany i rozprowadzany.
+3. Korzystanie z us³ugi jest darmowe, równie¿ dla stron komercyjnych.
+4. Autor nie ponosi odpowiedzialnoœci za pomy³ki lub przerwy w dostêpnoœci serwisu.
+
+** Licencja pluginu do WP
+
+CC BY-SA - Ten utwór objêty jest licencj¹ Creative Commons Uznanie autorstwa-Na tych samych warunkach 2.5 Polska.
+Aby zobaczyæ kopiê niniejszej licencji przejdŸ na stronê http://creativecommons.org/licenses/by-sa/2.5/pl/
