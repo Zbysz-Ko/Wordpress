@@ -46,11 +46,11 @@ by wyświetlić ilość zablokowanego spamu.
 Funkcja z argumentem *true* zwraca samą wartość.
 
 ## ToDo
-- [] a może by tak całkiem usuwać pewny spam, w ogóle nie dodawać do bazy?
+- [ ] a może by tak całkiem usuwać pewny spam, w ogóle nie dodawać do bazy?
 - [x] przezroczyste dla użytkownika błędy połączeń filtru z “serwerem matką”
 - [x] informować zalogowanego użytkownika, jeżeli jego komentarz trafił do moderacji (na pierwszy rzut oka nie da się) - edited: wyprowadzono w ostatnich wersjach WP
-- [] sprawdzanie trackbacków/pingbacków
-- [] strona opcji, przeglądarka spamów, raportowanie błędnego spamu
+- [ ] sprawdzanie trackbacków/pingbacków
+- [ ] strona opcji, przeglądarka spamów, raportowanie błędnego spamu
 
 ## Changelog
 * 0.9 
