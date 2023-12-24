@@ -2,7 +2,9 @@ Originally published on http://blog.koloda.pl/sblam-spam.html
 
 ### Sblam Spam
 *Kategoria: WordPress Tagi: plugin, sblam, spam, wordpress*
+
 *1 February 2007 08:46*
+
 **Ostatnia zmiana 29.07.2007 - wersja 0.9, wymaga PHP5 (paczka zawiera skrypt kliencki Sblam! wersja 1.3) - pobierz archiwum zip lub tgz.**
 
 ## Uwaga!
